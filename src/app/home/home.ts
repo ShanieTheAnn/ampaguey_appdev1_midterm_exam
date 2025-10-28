@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FormsModule} from '@angular/forms/index';
+import { FormsModule} from '@angular/forms';
 import { WeatherService } from '../services/weather.service';
 
 @Component({
